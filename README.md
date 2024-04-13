@@ -1,12 +1,21 @@
 SuperEatsのポートフォリオ用リポジトリ
+
 # 前提
 
 - SuperEatsは、下記でからダウンロードすることが可能です。
   - [GooglePlay](https://play.google.com/store/apps/details?id=com.newgameplus.supereats)
   - [AppStore](https://apps.apple.com/jp/app/super-eats-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E9%85%8D%E9%81%94%E5%93%A1/id6475675058)
-- 有料アセットは、パブリックリポジトリにするにあたって、  
-  プロジェクトから取り除いているため、エラーとなりゲームを再生することはできません。
-  - 使用していた有料アセットについては後述
+
+|街ステージ|未来ステージ|世紀末ステージ|
+|---|---|---|
+| <img width="1400" src="https://github.com/takahiro-imai-engineer/newgameplus-1/assets/69511542/e2ace094-6003-4dc4-8866-14942af724bc"> | <img width="1400" src="https://github.com/takahiro-imai-engineer/newgameplus-1/assets/69511542/af4ec335-2967-4b21-b6a4-12ed9c540c89"> | <img width="1400" src="https://github.com/takahiro-imai-engineer/newgameplus-1/assets/69511542/3591133c-1f75-459c-a1f2-67e8f236184b"> |
+
+- ゲームのジャンルは、ランゲーム。
+
+> [!WARNING]
+> - 有料アセットは、パブリックリポジトリにするにあたって、  
+>   プロジェクトから取り除いているため、エラーとなりゲームを再生することはできません。
+>   - 使用していた有料アセットについては、一部後述しています。
 
 
 # 環境
@@ -55,9 +64,9 @@ SuperEatsのポートフォリオ用リポジトリ
 - StreamingAssets
   - Andorid/iOSのアセットバンドルを格納
 
-# 有料アセット一覧
+# 有料アセット一部抜粋
 - ステージの配置物やモーション、エフェクトは省略
-  - 3つ(街/サイバーパンク/世紀末)の世界観に合うように有料アセットを購入して使用しました。
+  - 3つ(街/未来/世紀末)の世界観に合うように有料アセットを購入して使用しました。
 
 - シェーダー系
   - [CurvedWorld](https://assetstore.unity.com/packages/vfx/shaders/curved-world-173251)
