@@ -1,0 +1,102 @@
+id,name,needCoin
+1,ActionHero(Male),100
+2,Astronaut(Male),100
+3,BasketBall Player(Male),100
+4,Boxer(Male),100
+5,Business(Male),100
+6,Butler(Male),100
+7,Carpenter(Male),100
+8,Casual(Male),100
+9,Chef(Male),100
+10,Claus(Male),100
+11,Clown(Male),100
+12,Construction Worker(Male),100
+13,Cow Boy(Male),100
+14,Cyclist(Male),100
+15,Dentist(Male),100
+16,Diving(Male),100
+17,Doctor(Male),100
+18,Eskimo(Male),100
+19,Explorer(Male),100
+20,Farm(Male),100
+21,Fire(Male),100
+22,Hazard(Male),100
+23,Judge(Male),100
+24,Knight(Male),100
+25,Lumberjack(Male),100
+26,Mechanic(Male),100
+27,MetalHead(Male),100
+28,Mummy(Male),100
+29,NavalIfficer(Male),100
+30,Ninja(Male),100
+31,Paramedic(Male),100
+32,Pilot(Male),100
+33,Pirate(Male),100
+34,Plumber(Male),100
+35,Police(Male),100
+36,Post(Male),100
+37,Prehistoric(Male),100
+38,Race Driver(Male),100
+39,Reporter(Male),100
+40,Scientist(Male),100
+41,Skete(Male),100
+42,Skeleton(Male),100
+43,Ski(Male),100
+44,Soldier(Male),100
+45,Sumo(Male),100
+46,Super Hero(Male),100
+47,SwimSuit(Male),100
+48,Tennis(Male),100
+49,Viking(Male),100
+50,WeightLifter(Male),100
+51,Wizard(Male),100
+52,Yeti(Male),100
+53,Zombie(Male),100
+54,ActionHero(Female),100
+55,Astronaut(Female),100
+56,BasketBall Player(Female),100
+57,Boxer(Female),100
+58,Business(Female),100
+59,Carpenter(Female),100
+60,Casual(Female),100
+61,Chef(Female),100
+62,Claus(Female),100
+63,Clown(Female),100
+64,Construction Worker(Female),100
+65,Cow Girl(Female),100
+66,Cyclist(Female),100
+67,Dentist(Female),100
+68,Doctor(Female),100
+69,Eskimo(Female),100
+70,Explorer(Female),100
+71,Farm(Female),100
+72,Fire(Female),100
+73,Hazard(Female),100
+74,Judge(Female),100
+75,Lumberjack(Female),100
+76,Maid(Female),100
+77,Mechanic(Female),100
+78,Metal Head(Female),100
+79,Mummy(Female),100
+80,Naval Officer(Female),100
+81,Ninja(Female),100
+82,Paramedic(Female),100
+83,Pilot(Female),100
+84,Pirate(Female),100
+85,Plumber(Female),100
+86,Police(Female),100
+87,Post(Female),100
+88,Prehistoric(Female),100
+89,Race Car Driver(Female),100
+90,Reporter(Female),100
+91,Scientist(Female),100
+92,Skete(Female),100
+93,Soldier(Female),100
+94,Sumo(Female),100
+95,Super Hero(Female),100
+96,SwimSuit(Female),100
+97,Tennis(Female),100
+98,Viking(Female),100
+99,WeightLifter(Female),100
+100,Yeti(Female),100
+101,Zombie(Female),100

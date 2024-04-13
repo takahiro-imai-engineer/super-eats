@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_City05
+  m_EditorClassIdentifier: 
+  id: 0
+  stageTipSize: 100
+  goalStage: {fileID: 2030261076308236386, guid: df189db85837e4d8abbc104b60164431,
+    type: 3}
+  stageList:
+  - {fileID: 3132135183682885771, guid: 9e6e211f194244ad38a473173befdebb, type: 3}
+  - {fileID: 5353429500364738544, guid: 558d7fc56fffa4b039fea86e8d61124d, type: 3}
+  - {fileID: 5353429500364738544, guid: 74b6eaeda68484f6a9feea6a9077c710, type: 3}
+  - {fileID: 5353429500364738544, guid: 97db48fef13484a88817f1754254b80c, type: 3}
+  - {fileID: 5353429500364738544, guid: a05fb1274a73f4fdeb81395fd206b0d7, type: 3}
+  - {fileID: 5353429500364738544, guid: a5d65785b5e0c45b48fd956da30e8079, type: 3}
+  - {fileID: 5353429500364738544, guid: 7dd4cd072d50d4e51afd498e84289b08, type: 3}
+  - {fileID: 5353429500364738544, guid: cd980cddfef554d2993f5c723b0829db, type: 3}
+  - {fileID: 5353429500364738544, guid: 4b4076dbc78f94b42bc5cd00d074b446, type: 3}
+  - {fileID: 5353429500364738544, guid: 696d87bb8c08046edbcf40334686f004, type: 3}
+  - {fileID: 5353429500364738544, guid: 558d7fc56fffa4b039fea86e8d61124d, type: 3}
+  - {fileID: 5353429500364738544, guid: a05fb1274a73f4fdeb81395fd206b0d7, type: 3}
+  - {fileID: 5353429500364738544, guid: a5d65785b5e0c45b48fd956da30e8079, type: 3}
+  - {fileID: 5353429500364738544, guid: 1c7006248ac8b4403b3ad171ac5c30d7, type: 3}
+  - {fileID: 5284785547419777130, guid: 3616d67b83f954b70839862eb377c635, type: 3}
+  playerFollowObject: {fileID: 0}
+  isCurvedWorld: 0
+  horizontalSize: 0
+  horizontalOffset: 0
+  verticalSize: 0
+  verticalOffset: 0
+  ordererData: {fileID: 11400000, guid: 105fbd61aa16b49a58593bdab5f1b3ed, type: 2}
+  orderFoodDataList: []

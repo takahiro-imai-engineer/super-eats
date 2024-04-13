@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"7a31dfd3-cd3c-4594-8112-e199053a6144\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_X_SPEED\",\n      \"type\": \"float\",\n     
+    \"value\": 4.2\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"91366921-54e8-44f6-8177-73879531ba10\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_INCREASE_BAG_SCALE\",\n      \"type\":
+    \"float\",\n      \"value\": 0.4\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"5d34ee27-322c-413c-b9f6-c4068a4b4838\"\n    },\n    \"rs\": {\n     
+    \"key\": \"PLAYER_DECREASE_BAG_SCALE\",\n      \"type\": \"float\",\n      \"value\":
+    0.4\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"af707393-803a-40aa-8e80-6e39affd0c14\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_MAX_BAG_SCALE\",\n      \"type\":
+    \"float\",\n      \"value\": 3.2\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"42b5b0c9-83f8-4e8e-8d65-d8709ad862a6\"\n    },\n    \"rs\": {\n     
+    \"key\": \"PLAYER_INRTIA_RATE\",\n      \"type\": \"float\",\n      \"value\":
+    0.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"39205260-e62d-4a37-a590-006fdbd7c7ce\"\n   
+    },\n    \"rs\": {\n      \"key\": \"DRAG_LIMIT_MIN\",\n      \"type\": \"float\",\n     
+    \"value\": 0.05\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"959f2f4f-36b3-4166-a1a4-270c887820fc\"\n   
+    },\n    \"rs\": {\n      \"key\": \"LIMIT_INERTIA_X\",\n      \"type\": \"float\",\n     
+    \"value\": 1.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3ce28816-6a2d-4a8b-8523-60d6a910274e\"\n   
+    },\n    \"rs\": {\n      \"key\": \"LIMIT_PLAYER_X_SPEED\",\n      \"type\":
+    \"float\",\n      \"value\": 9.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"f9357465-f7dc-4323-8a0c-4341cf296bfb\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_PLAYER_X_SPEED\",\n      \"type\": \"float\",\n      \"value\":
+    12.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3a957b55-aa6f-4638-b152-63989b9fce92\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SLIP_PLAYER_INRTIA_RATE\",\n      \"type\":
+    \"float\",\n      \"value\": 1.2\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"bcda580c-0125-4aad-9b8d-f7834056a0a9\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_SPIN_WHEEL_PLAYER_X_SPEED_RATE\",\n      \"type\": \"float\",\n     
+    \"value\": 2.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3eeec9f1-bc93-4cb8-aaee-7084ea8267ab\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SLIP_LIMIT_INERTIA_X\",\n      \"type\":
+    \"float\",\n      \"value\": 5.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"c6fcdc80-769f-45c1-970d-ee8b05963a61\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_LIMIT_PLAYER_X_SPEED\",\n      \"type\": \"float\",\n      \"value\":
+    1.5\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"09b93d80-b2fe-4f52-ba3d-09866ed7740f\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_DECREASE_INRTIA_X_RATE\",\n      \"type\":
+    \"float\",\n      \"value\": 0.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"2351d2d2-33f9-4442-a332-0d3f3f4052be\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_PLAYER_DECREASE_INRTIA_X_RATE\",\n      \"type\": \"float\",\n     
+    \"value\": 15.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"46879b24-12f7-4777-9e12-67327dbac772\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SLIP_PLAYER_LIMIT_TILT\",\n      \"type\":
+    \"float\",\n      \"value\": 40.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"7e99ca70-ac2e-4de2-b6ac-d8207ea66b42\"\n    },\n    \"rs\": {\n     
+    \"key\": \"PLAYER_LIMIT_TILT,float,30 \",\n      \"type\": \"float\",\n     
+    \"value\": 30.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"1ee63ac7-8153-43c8-a25b-ae142bee8d67\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SPIN_WHEEL_PLAYER_X_SPEED_RATE,float,2 \",\n     
+    \"type\": \"float\",\n      \"value\": 2.0\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"995d6fb0-8713-4d2c-a426-2c399968afc6\"\n    },\n   
+    \"rs\": {\n      \"key\": \"SHOW_INTERSTITIAL_AD_COUNT\",\n      \"type\": \"float\",\n     
+    \"value\": 3.0\n    }\n  }\n]"
+  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"7a31dfd3-cd3c-4594-8112-e199053a6144\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_X_SPEED\",\n      \"type\": \"float\",\n     
+    \"value\": 4.2\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"91366921-54e8-44f6-8177-73879531ba10\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_INCREASE_BAG_SCALE\",\n      \"type\":
+    \"float\",\n      \"value\": 0.4\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"5d34ee27-322c-413c-b9f6-c4068a4b4838\"\n    },\n    \"rs\": {\n     
+    \"key\": \"PLAYER_DECREASE_BAG_SCALE\",\n      \"type\": \"float\",\n      \"value\":
+    0.4\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"af707393-803a-40aa-8e80-6e39affd0c14\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_MAX_BAG_SCALE\",\n      \"type\":
+    \"float\",\n      \"value\": 3.2\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"42b5b0c9-83f8-4e8e-8d65-d8709ad862a6\"\n    },\n    \"rs\": {\n     
+    \"key\": \"PLAYER_INRTIA_RATE\",\n      \"type\": \"float\",\n      \"value\":
+    0.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"39205260-e62d-4a37-a590-006fdbd7c7ce\"\n   
+    },\n    \"rs\": {\n      \"key\": \"DRAG_LIMIT_MIN\",\n      \"type\": \"float\",\n     
+    \"value\": 0.05\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"959f2f4f-36b3-4166-a1a4-270c887820fc\"\n   
+    },\n    \"rs\": {\n      \"key\": \"LIMIT_INERTIA_X\",\n      \"type\": \"float\",\n     
+    \"value\": 1.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3ce28816-6a2d-4a8b-8523-60d6a910274e\"\n   
+    },\n    \"rs\": {\n      \"key\": \"LIMIT_PLAYER_X_SPEED\",\n      \"type\":
+    \"float\",\n      \"value\": 9.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"f9357465-f7dc-4323-8a0c-4341cf296bfb\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_PLAYER_X_SPEED\",\n      \"type\": \"float\",\n      \"value\":
+    12.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3a957b55-aa6f-4638-b152-63989b9fce92\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SLIP_PLAYER_INRTIA_RATE\",\n      \"type\":
+    \"float\",\n      \"value\": 1.2\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"bcda580c-0125-4aad-9b8d-f7834056a0a9\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_SPIN_WHEEL_PLAYER_X_SPEED_RATE\",\n      \"type\": \"float\",\n     
+    \"value\": 2.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3eeec9f1-bc93-4cb8-aaee-7084ea8267ab\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SLIP_LIMIT_INERTIA_X\",\n      \"type\":
+    \"float\",\n      \"value\": 5.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"c6fcdc80-769f-45c1-970d-ee8b05963a61\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_LIMIT_PLAYER_X_SPEED\",\n      \"type\": \"float\",\n      \"value\":
+    1.5\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"09b93d80-b2fe-4f52-ba3d-09866ed7740f\"\n   
+    },\n    \"rs\": {\n      \"key\": \"PLAYER_DECREASE_INRTIA_X_RATE\",\n      \"type\":
+    \"float\",\n      \"value\": 0.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"2351d2d2-33f9-4442-a332-0d3f3f4052be\"\n    },\n    \"rs\": {\n     
+    \"key\": \"SLIP_PLAYER_DECREASE_INRTIA_X_RATE\",\n      \"type\": \"float\",\n     
+    \"value\": 15.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"46879b24-12f7-4777-9e12-67327dbac772\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SLIP_PLAYER_LIMIT_TILT\",\n      \"type\":
+    \"float\",\n      \"value\": 40.0\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"7e99ca70-ac2e-4de2-b6ac-d8207ea66b42\"\n    },\n    \"rs\": {\n     
+    \"key\": \"PLAYER_LIMIT_TILT,float,30 \",\n      \"type\": \"float\",\n     
+    \"value\": 30.0\n    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"1ee63ac7-8153-43c8-a25b-ae142bee8d67\"\n   
+    },\n    \"rs\": {\n      \"key\": \"SPIN_WHEEL_PLAYER_X_SPEED_RATE,float,2 \",\n     
+    \"type\": \"float\",\n      \"value\": 2.0\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"995d6fb0-8713-4d2c-a426-2c399968afc6\"\n    },\n   
+    \"rs\": {\n      \"key\": \"SHOW_INTERSTITIAL_AD_COUNT\",\n      \"type\": \"float\",\n     
+    \"value\": 3.0\n    }\n  }\n]"
+  _environments: "[\n  {\n    \"projectId\": \"ef636999-817a-4755-b62f-526912ec0032\",\n   
+    \"name\": \"development\",\n    \"id\": \"fae1ccd0-0b72-426a-8fda-e1a777d354ac\",\n   
+    \"isDefault\": false,\n    \"createdAt\": \"2020-09-25T19:27:32Z\",\n    \"updatedAt\":
+    \"2021-08-09T21:22:36Z\"\n  },\n  {\n    \"projectId\": \"ef636999-817a-4755-b62f-526912ec0032\",\n   
+    \"name\": \"production\",\n    \"id\": \"93ea38f4-07d6-40e3-bf32-beb75efdf4fc\",\n   
+    \"isDefault\": true,\n    \"createdAt\": \"2020-09-25T19:27:32Z\",\n    \"updatedAt\":
+    \"2021-08-09T21:22:36Z\"\n  }\n]"

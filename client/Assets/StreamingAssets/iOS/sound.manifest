@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 2307694661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48ce5074ffb440b2a28b99dd1cc39a2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App_Project/Sound/BGM/BGM_CYBER.mp3
+- Assets/App_Project/Sound/SE/SE_WIND.mp3
+- Assets/App_Project/Sound/SE/SE_TAP_BUTTON.wav
+- Assets/App_Project/Sound/SE/SE_TRAFFIC_JAM.wav
+- Assets/App_Project/Sound/BGM/BGM_WARP_HOLE.mp3
+- Assets/App_Project/Sound/SE/SE_CLASH.mp3
+- Assets/App_Project/Sound/SE/SE_PROGRESS_GAUGE.wav
+- Assets/App_Project/Sound/SE/SE_CYBER_CAR_IN.wav
+- Assets/App_Project/Sound/SE/SE_MONEY_RESULT.mp3
+- Assets/App_Project/Sound/SE/SE_CROSS_HOVER.wav
+- Assets/App_Project/Sound/SE/SE_PURCHASE_ITEM.wav
+- Assets/App_Project/Sound/SE/SE_GET_FOOD.wav
+- Assets/App_Project/Sound/SE/get_diamond.mp3
+- Assets/App_Project/Sound/SE/SE_RIVAL_IN.mp3
+- Assets/App_Project/Sound/SE/SE_MAX_GAUGE.mp3
+- Assets/App_Project/Sound/BGM/BGM_ENDING.mp3
+- Assets/App_Project/Sound/SE/SE_ORDER.mp3
+- Assets/App_Project/Sound/SE/SE_SMALL_CLASH.wav
+- Assets/App_Project/Sound/SE/SE_PUNCH.mp3
+- Assets/App_Project/Sound/SE/SE_BIG_SHIP_ENGINE.wav
+- Assets/App_Project/Sound/SE/SE_TRUCK_MOVE.mp3
+- Assets/App_Project/Sound/SE/SE_ROBOT.wav
+- Assets/App_Project/Sound/SE/Warp.mp3
+- Assets/App_Project/Sound/SE/SE_HOVER_CAR_FALL.wav
+- Assets/App_Project/Sound/SE/SE_SIREN.mp3
+- Assets/App_Project/Sound/BGM/BGM_CITY.mp3
+- Assets/App_Project/Sound/SE/SE_CAR_HORN.mp3
+- Assets/App_Project/Sound/BGM/BGM_GARAGE.mp3
+- Assets/App_Project/Sound/SE/SE_STAGE_CLEAR.mp3
+- Assets/App_Project/Sound/SE/SE_BIG_SHIP_ALARM.wav
+- Assets/App_Project/Sound/SE/SE_BOX_FALL.mp3
+- Assets/App_Project/Sound/SE/SE_CONTAINER_MOVE.mp3
+- Assets/App_Project/Sound/SE/SE_DOOR_CLOSE.wav
+- Assets/App_Project/Sound/SE/SE_POLICE_CAR.mp3
+- Assets/App_Project/Sound/SE/SE_DASH.mp3
+- Assets/App_Project/Sound/SE/SE_GET_COIN.mp3
+- Assets/App_Project/Sound/SE/SE_GET_DIAMOND.wav
+- Assets/App_Project/Sound/SE/SE_GOAL.wav
+- Assets/App_Project/Sound/BGM/BGM_APOCALYPSE.mp3
+- Assets/App_Project/Sound/SE/SE_TIME_TO_WARP.mp3
+- Assets/App_Project/Sound/SE/SE_RIVAL_DRONE.mp3
+- Assets/App_Project/Sound/SE/SE_HOVER_CAR_START.wav
+- Assets/App_Project/Sound/SE/SE_HEAVY.mp3
+- Assets/App_Project/Sound/SE/SE_CONTAINER_FALL.mp3
+- Assets/App_Project/Sound/SE/SE_CONCRETE_FALL.mp3
+- Assets/App_Project/Sound/SE/SE_JUMP.wav
+- Assets/App_Project/Sound/SE/SE_ENEMY_DRONE.mp3
+- Assets/App_Project/Sound/SE/SE_CAR_COMING.wav
+- Assets/App_Project/Sound/SE/SE_TRUCK_HORN.mp3
+- Assets/App_Project/Sound/SE/SE_GENERATE_COIN.wav
+Dependencies: []

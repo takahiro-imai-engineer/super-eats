@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 56156451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54581fba0771ab42f12fa0d0fe73c481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App_Project/Image/Icon/Character/City04-02.png
+- Assets/App_Project/Image/Icon/Character/Apo05-01.png
+- Assets/App_Project/Image/Icon/Character/City01-01.png
+- Assets/App_Project/Image/Icon/Character/Cyber05-01.png
+- Assets/App_Project/Image/Icon/Character/City02-01.png
+- Assets/App_Project/Image/Icon/Character/City_Bonus.png
+- Assets/App_Project/Image/Icon/Character/Apo04-01.png
+- Assets/App_Project/Image/Icon/Character/Apo02-01.png
+- Assets/App_Project/Image/Icon/Character/City03-03.png
+- Assets/App_Project/Image/Icon/Character/Apo02-02.png
+- Assets/App_Project/Image/Icon/Character/City02-03.png
+- Assets/App_Project/Image/Icon/Character/Apo01-01.png
+- Assets/App_Project/Image/Icon/Character/Cyber03-02.png
+- Assets/App_Project/Image/Icon/Character/City03-01.png
+- Assets/App_Project/Image/Icon/Character/City03-02.png
+- Assets/App_Project/Image/Icon/Character/SumoCharacterIcon.png
+- Assets/App_Project/Image/Icon/Character/City03-04.png
+- Assets/App_Project/Image/Icon/Character/Apo03-01.png
+- Assets/App_Project/Image/Icon/Character/City02-05.png
+- Assets/App_Project/Image/Icon/Character/City03-05.png
+- Assets/App_Project/Image/Icon/Character/City04-01.png
+- Assets/App_Project/Image/Icon/Character/Apo03-03.png
+- Assets/App_Project/Image/Icon/Character/City01-03.png
+- Assets/App_Project/Image/Icon/Character/Cyber_Bonus01.png
+- Assets/App_Project/Image/Icon/Character/Apo01-02.png
+- Assets/App_Project/Image/Icon/Character/City_Tutorial.png
+- Assets/App_Project/Image/Icon/Character/Apo03-02.png
+- Assets/App_Project/Image/Icon/Character/Apo09-01.png
+- Assets/App_Project/Image/Icon/Character/City02-04.png
+- Assets/App_Project/Image/Icon/Character/Cyber04-01.png
+- Assets/App_Project/Image/Icon/Character/SampleCharacterIcon.png
+- Assets/App_Project/Image/Icon/Character/City01-02.png
+- Assets/App_Project/Image/Icon/Character/Cyber01-01.png
+- Assets/App_Project/Image/Icon/Character/Apo02-03.png
+- Assets/App_Project/Image/Icon/Character/Cyber02-02.png
+- Assets/App_Project/Image/Icon/Character/Cyber_Bonus02.png
+- Assets/App_Project/Image/Icon/Character/City05-01.png
+- Assets/App_Project/Image/Icon/Character/Cyber03-03.png
+- Assets/App_Project/Image/Icon/Character/City02-02.png
+- Assets/App_Project/Image/Icon/Character/Cyber02-01.png
+- Assets/App_Project/Image/Icon/Character/Cyber03-01.png
+- Assets/App_Project/Image/Icon/Character/Cyber02-03.png
+- Assets/App_Project/Image/Icon/Character/Cyber01-02.png
+Dependencies: []

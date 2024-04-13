@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AdCharacterAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e022a52778db445dc8b553aee72d559e, type: 3}
+    - {fileID: 102900000, guid: 627bf9c104769485f8fb26a2060e55a7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 514116001a01a4870b0b8af1f3ed4aac, type: 3}
+  - {fileID: 21300000, guid: 56d8ec0045f9a40b4a9b4f859e11c722, type: 3}
+  - {fileID: 21300000, guid: 07057850bd1124a6d8b0171e1564b0ed, type: 3}
+  - {fileID: 21300000, guid: 7bd70382f99964900ab2dd0e822e49f1, type: 3}
+  - {fileID: 21300000, guid: d7f826a3b172c46148702f4523bfe6bd, type: 3}
+  - {fileID: 21300000, guid: 219d0ed4050a84c1486e4b5e968c81f5, type: 3}
+  - {fileID: 21300000, guid: 15e9960674755468fbe5e6530ae6a7b6, type: 3}
+  - {fileID: 21300000, guid: 33ee23264fcef405d9b7e11383ddb7eb, type: 3}
+  - {fileID: 21300000, guid: fa88a3460b7df4c06b25ce89041fc5b5, type: 3}
+  - {fileID: 21300000, guid: eef7cb96683904a4b8015038b5c52147, type: 3}
+  - {fileID: 21300000, guid: 42b55fd7a9a7d48e0bca06cab1615cb1, type: 3}
+  - {fileID: 21300000, guid: c9ab5e18a70f64e74ad6efb244cae764, type: 3}
+  - {fileID: 21300000, guid: 8476f588a95a24077833e16730ae342b, type: 3}
+  - {fileID: 21300000, guid: f1cc21a893b974aeaa537d26d0750e7b, type: 3}
+  - {fileID: 21300000, guid: 757153aa28cb6470487414c5e2255d70, type: 3}
+  - {fileID: 21300000, guid: 982a675b2063f4e7abc2da995090e6ac, type: 3}
+  - {fileID: 21300000, guid: 101bea9b220ac4bb491b27cc7014dff1, type: 3}
+  - {fileID: 21300000, guid: f5157f0c9d6a34e17a4ebe18fac02a9d, type: 3}
+  - {fileID: 21300000, guid: cc20bb8c1183f4e8f9d0cfefbe5147be, type: 3}
+  - {fileID: 21300000, guid: da1041fcba5824482a4c22211ab64c68, type: 3}
+  - {fileID: 21300000, guid: b64599edcff744c79b99806c21eaf569, type: 3}
+  - {fileID: 21300000, guid: 88fd158e69b4d432b95588725ba01b72, type: 3}
+  - {fileID: 21300000, guid: 1177369fd5b4c4f81855a475f713d7a4, type: 3}
+  - {fileID: 21300000, guid: 72a629cf686154679834e60d8fcf52ef, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - AdCharacter_1_12
+  - AdCharacter_2_3
+  - AdCharacter_2_4
+  - AdCharacter_1_1
+  - AdCharacter_2_11
+  - AdCharacter_2_12
+  - AdCharacter_2_8
+  - AdCharacter_1_3
+  - AdCharacter_2_7
+  - AdCharacter_2_9
+  - AdCharacter_2_5
+  - AdCharacter_1_10
+  - AdCharacter_1_5
+  - AdCharacter_1_9
+  - AdCharacter_1_4
+  - AdCharacter_2_1
+  - AdCharacter_1_6
+  - AdCharacter_2_2
+  - AdCharacter_2_6
+  - AdCharacter_1_8
+  - AdCharacter_1_2
+  - AdCharacter_1_7
+  - AdCharacter_1_11
+  - AdCharacter_2_10
+  m_RenderDataMap: {}
+  m_Tag: AdCharacterAtlas
+  m_IsVariant: 0

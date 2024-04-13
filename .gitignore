@@ -1,0 +1,9 @@
+client/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_6_1.so
+client/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_6_1.so.meta
+FirebaseCppApp-8_6_1.so
+FirebaseCppApp-8_6_1.so.meta
+iOSBuild/*
+client/Assets/GeneratedLocalRepo
+GeneratedLocalRepo.meta
+*.ipa
+client/UserSettings/AndroidLogcatSettings.asset

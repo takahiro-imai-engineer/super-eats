@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7fdc44293cb94564a78a0580593cb1d, type: 3}
+  m_Name: BagData_3
+  m_EditorClassIdentifier: 
+  id: 3
+  name: Default
+  iconName: BagAvatar03
+  needCoin: 2000
+  needJewel: 2
+  isDefaultOpen: 0
+  magnetLevel: 2
+  bagObject: {fileID: 8310563438158293551, guid: e823b82b6cc4f4e60bd4b2a35f03320c,
+    type: 3}

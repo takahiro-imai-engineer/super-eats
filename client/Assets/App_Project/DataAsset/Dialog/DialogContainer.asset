@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d828cb3d1586148ba602ab0eac3682, type: 3}
+  m_Name: DialogContainer
+  m_EditorClassIdentifier: 
+  ContainerName: 
+  Prefabs:
+  - {fileID: 114714400528989140, guid: 4f00eee58b6b33b49b11302f943a8fd0, type: 3}
+  - {fileID: 114124835461896802, guid: ef83fe7cd6ac8324da036d16af35c79f, type: 3}
+  - {fileID: 7325154129185824581, guid: 3d8ee79305e2c4f698167ff803dbe1ef, type: 3}
+  - {fileID: 7153963232674859602, guid: c7c37baa9e0414d53afd61e3e232fe24, type: 3}
+  - {fileID: 5928296162213067886, guid: 491d4c0619fa74781b12b55a166e4b25, type: 3}
+  - {fileID: 6048360433410812205, guid: d66a544d417ea48a29ade5c8c8d9fbb1, type: 3}
+  - {fileID: 4976291764824480650, guid: e5a12e31eccf64c3daef447c79e276bc, type: 3}
+  - {fileID: 3038388142452627202, guid: 7ed5162bf7a8141b9a5b5cec8ba9ee5c, type: 3}
+  - {fileID: 7576808850477242638, guid: 851c716748fb246a6b18bae96425c492, type: 3}

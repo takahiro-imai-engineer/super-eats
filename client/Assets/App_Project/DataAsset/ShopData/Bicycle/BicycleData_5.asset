@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b1ddced5f7e34da197f5b4387758460, type: 3}
+  m_Name: BicycleData_5
+  m_EditorClassIdentifier: 
+  id: 5
+  name: Default
+  iconName: BikeAvatar05
+  needCoin: 10000
+  needJewel: 4
+  isDefaultOpen: 0
+  playerLife: 7
+  bicycleObject: {fileID: 1724000286940984934, guid: 61b010fafe93847af9c0d4c8cd9d3a76,
+    type: 3}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData3
+  m_EditorClassIdentifier: 
+  id: 0
+  stageTipSize: 100
+  goalStage: {fileID: 2030261076308236386, guid: df189db85837e4d8abbc104b60164431,
+    type: 3}
+  stageList:
+  - {fileID: 6751600849595141714, guid: c2596cb60ec664f0abf4de4a1b5d3354, type: 3}
+  - {fileID: 3247493069924371225, guid: 9954541556db341848b8248ef9359ed2, type: 3}
+  - {fileID: 1583705554174305302, guid: 6eb262bbd824042908d7a7df5de38360, type: 3}
+  - {fileID: 2299542433208568874, guid: 85023dd84a8ac46ad97588acd0ecb88a, type: 3}
+  - {fileID: 7839412616441399540, guid: ee003d25305db458eb96cb706e8f0828, type: 3}
+  - {fileID: 4702427321055856576, guid: 920c792c95b4e41939bcc19d556fa85a, type: 3}
+  - {fileID: 6195328998744312008, guid: 2295b49179b00408db2f8b1767ec6828, type: 3}
+  - {fileID: 1815864213754105725, guid: 575ff8c3214864ed080cc1c1ec8ca740, type: 3}
+  - {fileID: 7839412616441399540, guid: ee003d25305db458eb96cb706e8f0828, type: 3}
+  - {fileID: 4702427321055856576, guid: 920c792c95b4e41939bcc19d556fa85a, type: 3}
+  - {fileID: 781552766833681115, guid: 734d84cf12c2a4ffaa162702e1727868, type: 3}
+  - {fileID: 6320791133727870281, guid: d54965f1d2e4c440fa6b424f6c12ce81, type: 3}
+  playerFollowObject: {fileID: 0}
+  isCurvedWorld: 0
+  horizontalSize: 0
+  horizontalOffset: 0
+  verticalSize: 0
+  verticalOffset: 0
+  ordererData: {fileID: 11400000, guid: 105fbd61aa16b49a58593bdab5f1b3ed, type: 2}
+  orderFoodDataList: []

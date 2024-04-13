@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec93a18488d1d410ab124d3d89d8ee5e, type: 3}
+  m_Name: CityGraphicData
+  m_EditorClassIdentifier: 
+  lightSetting1:
+    isActive: 1
+    lightAngle: {x: 44.47149, y: 327.7798, z: 313.2439}
+    lightColor: {r: 1, g: 1, b: 1, a: 1}
+    lightIntensity: 1.45
+  lightSetting2:
+    isActive: 0
+    lightAngle: {x: 0, y: 0, z: 0}
+    lightColor: {r: 0, g: 0, b: 0, a: 0}
+    lightIntensity: 0
+  skyboxMaterialName: OriginalSkybox_City_03_Cubemap
+  realtimeShadowColor: {r: 0.41960785, g: 0.47843137, b: 0.627451, a: 1}
+  environmentAmbientLight: {r: 0.8, g: 0.8666667, b: 1, a: 1}
+  fogColor: {r: 0.22352941, g: 0.8666667, b: 0.9647059, a: 1}
+  fogDensity: 0.009
+  titleSkyboxMaterialName: OriginalSkybox_City_03_Cubemap
+  titleEnvironmentAmbientLight: {r: 0.81960785, g: 0.827451, b: 0.8392157, a: 1}
+  titleFogColor: {r: 0.76862746, g: 0.9529412, b: 1, a: 1}
+  titleFogDensity: 0.035

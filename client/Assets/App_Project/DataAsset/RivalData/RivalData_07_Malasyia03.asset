@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191a92cdf395349c4996e9bcd7f92678, type: 3}
+  m_Name: RivalData_07_Malasyia03
+  m_EditorClassIdentifier: 
+  name: Jasmin
+  iconName: Cyber_Bonus02
+  nationalFlag: {fileID: 21300000, guid: 47b1bbc103ee948059113da4cffc8d25, type: 3}

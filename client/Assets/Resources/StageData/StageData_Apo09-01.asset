@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_Apo09-01
+  m_EditorClassIdentifier: 
+  id: 3901
+  groupId: 3
+  stageName: Apo09-01
+  stageTipSize: 100
+  goalStage: {fileID: 5353429500364738544, guid: ab26e1ade471847b4a4972b01066c0bc,
+    type: 3}
+  stageList:
+  - {fileID: 3132135183682885771, guid: 73211b992abd443d69b225482d152ed0, type: 3}
+  - {fileID: 3132135183682885771, guid: 75921adc78ce0411b8f44292845f1078, type: 3}
+  - {fileID: 3132135183682885771, guid: a897ec7040b7c4aba8ef2584e2db3c6f, type: 3}
+  - {fileID: 3132135183682885771, guid: c142836b9978f4e9ca569a0fd4ea330c, type: 3}
+  - {fileID: 3132135183682885771, guid: 1b23dd44e8b6d4b7797c367667902e90, type: 3}
+  - {fileID: 3132135183682885771, guid: 890a4761abb3c412e877b3c005ded97f, type: 3}
+  - {fileID: 3132135183682885771, guid: 82496df80706b4a19af769b23b78b50f, type: 3}
+  - {fileID: 3132135183682885771, guid: 82496df80706b4a19af769b23b78b50f, type: 3}
+  - {fileID: 3132135183682885771, guid: 75921adc78ce0411b8f44292845f1078, type: 3}
+  - {fileID: 3132135183682885771, guid: a897ec7040b7c4aba8ef2584e2db3c6f, type: 3}
+  - {fileID: 3132135183682885771, guid: 7b15df3adf4384fc5812363bc42fd1f8, type: 3}
+  playerFollowObject: {fileID: 0}
+  isCurvedWorld: 1
+  horizontalSize: -0.3
+  horizontalOffset: 0
+  verticalSize: -0.3
+  verticalOffset: 0
+  normalCoinPrice: 1
+  bonusCoinPrice: 30
+  ordererData: {fileID: 11400000, guid: b2ab177e5d0214dc085b525be869563d, type: 2}
+  orderFoodDataList:
+  - FoodData: {fileID: 11400000, guid: c3a3dd9ee4098492dab4a9f6ee6352ba, type: 2}
+    Num: 2
+    Price: 620
+  - FoodData: {fileID: 11400000, guid: 981e1c6d19e08436c86d266366307676, type: 2}
+    Num: 2
+    Price: 620
+  - FoodData: {fileID: 11400000, guid: 8025e780ed0d4456f9e8b6e42af0c6f0, type: 2}
+    Num: 1
+    Price: 580
+  - FoodData: {fileID: 11400000, guid: 3991630e2555a4d748e75e9ebddb3904, type: 2}
+    Num: 1
+    Price: 580
+  difficulty: 6
+  isBonusStage: 1

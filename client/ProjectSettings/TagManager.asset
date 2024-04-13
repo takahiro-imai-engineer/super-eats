@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stage
+  - Coin
+  - Goal
+  - Obstacle
+  - Food
+  - Rival
+  - WindGimick
+  - Missile
+  - soldier
+  - ContactRigidbody
+  - Gravity modifier
+  - Jewel
+  - BonusCoin
+  - Animal
+  - Tutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Food
+  - Volume
+  - DOTweenPath
+  - StageWall
+  - DropFood
+  - Food
+  - OverlayUI
+  - EnemyRagdoll
+  - RenderTexture
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 3DDraw
+    uniqueID: 1609545163
+    locked: 0
+  - name: FrontDraw
+    uniqueID: 1228184927
+    locked: 0
+  - name: OverlayDraw
+    uniqueID: 3693203949
+    locked: 0

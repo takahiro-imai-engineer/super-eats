@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_Cyber_03-01
+  m_EditorClassIdentifier: 
+  id: 2301
+  groupId: 2
+  stageName: StageData_Cyber_03-01
+  stageTipSize: 100
+  goalStage: {fileID: 5353429500364738544, guid: d08717666cc4d408e854be4bb4a27b4a,
+    type: 3}
+  stageList:
+  - {fileID: 663347461385343888, guid: 08377941bbe79469daaacd66c2d11022, type: 3}
+  - {fileID: 663347461385343888, guid: 92a0c92d208a04492813f474b23c119f, type: 3}
+  - {fileID: 663347461385343888, guid: 98f2a9c565c2c4ef4bd1e447fd7b0ed0, type: 3}
+  - {fileID: 663347461385343888, guid: fe2691d4a58594786810255b6362cfe2, type: 3}
+  - {fileID: 663347461385343888, guid: a9ab1c7ea7d774b8a8ce90193bb258b0, type: 3}
+  - {fileID: 663347461385343888, guid: ad366e89fc7fe4f929786547c009a62b, type: 3}
+  - {fileID: 663347461385343888, guid: 4c741305b99dd45b5929daf134b3d27f, type: 3}
+  - {fileID: 663347461385343888, guid: 89fb17ef70d514abe9789e7427b1094f, type: 3}
+  - {fileID: 663347461385343888, guid: 9d4b6c5b4e699420f980ed2673e31451, type: 3}
+  - {fileID: 663347461385343888, guid: 5dbb6b8d9fbb1477eaddbeb5467f3e40, type: 3}
+  - {fileID: 663347461385343888, guid: 29ac6274dbfad464fa5062ff8ff1f1e9, type: 3}
+  - {fileID: 663347461385343888, guid: b2eddda8a43654e6b834f1c63b9bc600, type: 3}
+  - {fileID: 663347461385343888, guid: c92aea78c785046e89212745e45c7872, type: 3}
+  - {fileID: 663347461385343888, guid: 636024174b4864b5eae9d2468ba08955, type: 3}
+  - {fileID: 663347461385343888, guid: ba3e9bed0a237469f821df0797b6247c, type: 3}
+  - {fileID: 663347461385343888, guid: 3ec4bb82896564162b95809909d6f41d, type: 3}
+  playerFollowObject: {fileID: 4784188875439309345, guid: cb4e597690c834739aa37e3fc0079f47,
+    type: 3}
+  isCurvedWorld: 1
+  horizontalSize: -0.3
+  horizontalOffset: 0
+  verticalSize: -0.3
+  verticalOffset: 0
+  normalCoinPrice: 2
+  bonusCoinPrice: 10
+  ordererData: {fileID: 11400000, guid: ec77d95b14bdb4dbcbee10af82647e9e, type: 2}
+  orderFoodDataList:
+  - FoodData: {fileID: 11400000, guid: 6917f4240d9a049ea99390f9112e8223, type: 2}
+    Num: 1
+    Price: 450
+  - FoodData: {fileID: 11400000, guid: affb6847dd3684fa18256ece46843f9d, type: 2}
+    Num: 1
+    Price: 500
+  - FoodData: {fileID: 11400000, guid: 981e1c6d19e08436c86d266366307676, type: 2}
+    Num: 1
+    Price: 510
+  - FoodData: {fileID: 11400000, guid: c3a3dd9ee4098492dab4a9f6ee6352ba, type: 2}
+    Num: 1
+    Price: 520
+  - FoodData: {fileID: 11400000, guid: 8025e780ed0d4456f9e8b6e42af0c6f0, type: 2}
+    Num: 1
+    Price: 480
+  difficulty: 4
+  isBonusStage: 0

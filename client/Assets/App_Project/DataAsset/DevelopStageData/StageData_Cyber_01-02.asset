@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_Cyber_01-02
+  m_EditorClassIdentifier: 
+  id: 2102
+  stageName: StageData_Cyber_01-02
+  stageTipSize: 100
+  goalStage: {fileID: 5353429500364738544, guid: d08717666cc4d408e854be4bb4a27b4a,
+    type: 3}
+  stageList:
+  - {fileID: 663347461385343888, guid: ce4da86c6d64c4a0398d8a487cd2d999, type: 3}
+  - {fileID: 663347461385343888, guid: 29ac6274dbfad464fa5062ff8ff1f1e9, type: 3}
+  - {fileID: 663347461385343888, guid: b4d7dc1e5c04b4c9a98680d1f76c2f17, type: 3}
+  - {fileID: 663347461385343888, guid: 2df655d8043f14cf1b1c5a1268e0c68d, type: 3}
+  - {fileID: 663347461385343888, guid: 16163e3a0b88f4afaad4cc9487ca2143, type: 3}
+  - {fileID: 663347461385343888, guid: a9ab1c7ea7d774b8a8ce90193bb258b0, type: 3}
+  - {fileID: 663347461385343888, guid: 636024174b4864b5eae9d2468ba08955, type: 3}
+  - {fileID: 663347461385343888, guid: ca6038dd86b7d4535811a8ee49c87fc5, type: 3}
+  - {fileID: 663347461385343888, guid: 2ae0c352ab4b84837bfb10aa9c065ca9, type: 3}
+  - {fileID: 663347461385343888, guid: fe2691d4a58594786810255b6362cfe2, type: 3}
+  - {fileID: 663347461385343888, guid: 16163e3a0b88f4afaad4cc9487ca2143, type: 3}
+  playerFollowObject: {fileID: 4784188875439309345, guid: cb4e597690c834739aa37e3fc0079f47,
+    type: 3}
+  isCurvedWorld: 1
+  horizontalSize: -0.3
+  horizontalOffset: 0
+  verticalSize: -0.3
+  verticalOffset: 0
+  ordererData: {fileID: 11400000, guid: 816d95bd2968941078db4f7782cc44a1, type: 2}
+  orderFoodDataList:
+  - FoodData: {fileID: 11400000, guid: 981e1c6d19e08436c86d266366307676, type: 2}
+    Num: 1
+  - FoodData: {fileID: 11400000, guid: c3a3dd9ee4098492dab4a9f6ee6352ba, type: 2}
+    Num: 1
+  - FoodData: {fileID: 11400000, guid: affb6847dd3684fa18256ece46843f9d, type: 2}
+    Num: 1
+  difficulty: 1
+  isBonusStage: 0

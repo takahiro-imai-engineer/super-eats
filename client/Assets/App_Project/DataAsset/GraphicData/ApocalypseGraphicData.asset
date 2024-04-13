@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec93a18488d1d410ab124d3d89d8ee5e, type: 3}
+  m_Name: ApocalypseGraphicData
+  m_EditorClassIdentifier: 
+  lightSetting1:
+    isActive: 1
+    lightAngle: {x: 53.36568, y: 309.203, z: 334.652}
+    lightColor: {r: 0.9137255, g: 0.8509804, b: 0.6313726, a: 1}
+    lightIntensity: 1.45
+  lightSetting2:
+    isActive: 1
+    lightAngle: {x: 44.30208, y: 144.157, z: 91.14828}
+    lightColor: {r: 0.69803923, g: 0.6862745, b: 0.9607843, a: 1}
+    lightIntensity: 0.6
+  skyboxMaterialName: OriginalSkybox_Apo_03_Cubemap 1
+  realtimeShadowColor: {r: 0.41960785, g: 0.47843137, b: 0.627451, a: 1}
+  environmentAmbientLight: {r: 1, g: 0.5529412, b: 0.94509804, a: 1}
+  fogColor: {r: 0.7058824, g: 0.5058824, b: 0.35686275, a: 1}
+  fogDensity: 0.011
+  titleSkyboxMaterialName: OriginalSkybox_Apo_03_Cubemap 1
+  titleEnvironmentAmbientLight: {r: 1, g: 0.5529412, b: 0.94509804, a: 1}
+  titleFogColor: {r: 0.7529412, g: 0.5803922, b: 0.4509804, a: 1}
+  titleFogDensity: 0.035

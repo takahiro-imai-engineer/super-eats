@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2197995399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32bf624ccb09a254950687e01f072226
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GooglePlayPlugins/com.google.play.assetdelivery/Samples/TextureTargetingDemo/Textures/GreenBrickTiles.jpeg
+Dependencies: []

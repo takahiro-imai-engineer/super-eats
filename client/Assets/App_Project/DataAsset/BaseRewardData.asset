@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23b29454e353450db5b5d55d011c26a, type: 3}
+  m_Name: BaseRewardData
+  m_EditorClassIdentifier: 
+  baseLevelUpRewardList:
+  - StageLevel: 0
+    BaseLevel: 1
+    BaseGroupId: 1
+    BaseStep: 0
+    FurnitureSprite: {fileID: 0}
+  - StageLevel: 1
+    BaseLevel: 2
+    BaseGroupId: 1
+    BaseStep: 1
+    FurnitureSprite: {fileID: 21300000, guid: 42449a5048e2c466fb437993a19718c3, type: 3}
+  - StageLevel: 3
+    BaseLevel: 3
+    BaseGroupId: 1
+    BaseStep: 2
+    FurnitureSprite: {fileID: 21300000, guid: fd48b698b48144a589ac8946f11d3760, type: 3}
+  - StageLevel: 5
+    BaseLevel: 4
+    BaseGroupId: 2
+    BaseStep: 0
+    FurnitureSprite: {fileID: 0}
+  - StageLevel: 7
+    BaseLevel: 5
+    BaseGroupId: 2
+    BaseStep: 1
+    FurnitureSprite: {fileID: 21300000, guid: ebaf1151bdecf49998aa91f2097832a2, type: 3}
+  - StageLevel: 9
+    BaseLevel: 6
+    BaseGroupId: 2
+    BaseStep: 2
+    FurnitureSprite: {fileID: 21300000, guid: 71112d529e656425db097d5ab966b395, type: 3}
+  - StageLevel: 12
+    BaseLevel: 7
+    BaseGroupId: 3
+    BaseStep: 0
+    FurnitureSprite: {fileID: 0}
+  - StageLevel: 14
+    BaseLevel: 8
+    BaseGroupId: 3
+    BaseStep: 1
+    FurnitureSprite: {fileID: 21300000, guid: 37aefd5b8caa0411caa6d9618ba82269, type: 3}
+  - StageLevel: 16
+    BaseLevel: 9
+    BaseGroupId: 3
+    BaseStep: 2
+    FurnitureSprite: {fileID: 21300000, guid: ff3e131c0633749e1817f6837f4393aa, type: 3}
+  - StageLevel: 19
+    BaseLevel: 10
+    BaseGroupId: 4
+    BaseStep: 0
+    FurnitureSprite: {fileID: 0}
+  - StageLevel: 21
+    BaseLevel: 11
+    BaseGroupId: 4
+    BaseStep: 1
+    FurnitureSprite: {fileID: 21300000, guid: 797701f14c11d4e918150d0578c050f9, type: 3}
+  - StageLevel: 23
+    BaseLevel: 12
+    BaseGroupId: 4
+    BaseStep: 2
+    FurnitureSprite: {fileID: 21300000, guid: 16b5c0335b75046739a66afeff679634, type: 3}
+  - StageLevel: 25
+    BaseLevel: 13
+    BaseGroupId: 4
+    BaseStep: 3
+    FurnitureSprite: {fileID: 21300000, guid: c9c70f60d8a5341528ddb717e73c05c7, type: 3}

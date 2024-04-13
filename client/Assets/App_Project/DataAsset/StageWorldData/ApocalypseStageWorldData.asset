@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 445f5f1925d164943aee7b8cdc7293a2, type: 3}
+  m_Name: ApocalypseStageWorldData
+  m_EditorClassIdentifier: 
+  worldId: 3
+  nextWorldNecessaryTotalMoneyNum: 30000
+  reapeatStageProgressDegrees: 2
+  stageDrawingDataList:
+  - ProgressDegrees: 0
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo01-01
+    - StageDataList:
+      - StageData_Apo01-02
+    IsTutorialStage: 0
+  - ProgressDegrees: 1
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo01-01
+      - StageData_Apo01-02
+    - StageDataList:
+      - StageData_Apo02-01
+    - StageDataList:
+      - StageData_Apo02-02
+    IsTutorialStage: 0
+  - ProgressDegrees: 2
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo01-01
+      - StageData_Apo01-02
+    - StageDataList:
+      - StageData_Apo02-01
+      - StageData_Apo02-02
+    - StageDataList:
+      - StageData_Apo03-01
+    IsTutorialStage: 0
+  - ProgressDegrees: 3
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo09-01
+    - StageDataList:
+      - StageData_Apo02-01
+      - StageData_Apo02-02
+    - StageDataList:
+      - StageData_Apo03-02
+    IsTutorialStage: 0
+  - ProgressDegrees: 4
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo01-01
+      - StageData_Apo01-02
+    - StageDataList:
+      - StageData_Apo02-03
+    - StageDataList:
+      - StageData_Apo03-02
+    IsTutorialStage: 0
+  - ProgressDegrees: 5
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo02-01
+      - StageData_Apo02-02
+    - StageDataList:
+      - StageData_Apo03-01
+      - StageData_Apo03-02
+    - StageDataList:
+      - StageData_Apo04-01
+    IsTutorialStage: 0
+  - ProgressDegrees: 6
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo09-01
+    - StageDataList:
+      - StageData_Apo02-03
+    - StageDataList:
+      - StageData_Apo03-01
+      - StageData_Apo03-02
+    IsTutorialStage: 0
+  - ProgressDegrees: 7
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo01-01
+      - StageData_Apo01-02
+    - StageDataList:
+      - StageData_Apo02-01
+      - StageData_Apo02-02
+    - StageDataList:
+      - StageData_Apo03-03
+    IsTutorialStage: 0
+  - ProgressDegrees: 8
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_Apo03-01
+      - StageData_Apo03-02
+    - StageDataList:
+      - StageData_Apo04-01
+    - StageDataList:
+      - StageData_Apo05-01
+    IsTutorialStage: 0
+  graphicData: {fileID: 11400000, guid: 947b4c1781c5540cdb1a20897c04ee47, type: 2}
+  stageGroupName: 20XX
+  stageIcon: {fileID: 21300000, guid: b89328b9fdad247e2930465f6f3ac57b, type: 3}

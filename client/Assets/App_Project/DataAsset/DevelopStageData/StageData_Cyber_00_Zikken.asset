@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_Cyber_00_Zikken
+  m_EditorClassIdentifier: 
+  id: 2101
+  stageName: StageData_Cyber_00_Zikken
+  stageTipSize: 100
+  goalStage: {fileID: 5353429500364738544, guid: 982dce91376254957b1d8818a30facee,
+    type: 3}
+  stageList:
+  - {fileID: 3132135183682885771, guid: 8348a4002ec574638b1a5d518b0eb96b, type: 3}
+  - {fileID: 3132135183682885771, guid: 014f3d4a86f724060ba69b16780d0a12, type: 3}
+  - {fileID: 3132135183682885771, guid: 3d4b66845cc424dc680bba01668397fc, type: 3}
+  - {fileID: 3132135183682885771, guid: eabc4e105946c4519b0579e7fecd9611, type: 3}
+  - {fileID: 3132135183682885771, guid: 8348a4002ec574638b1a5d518b0eb96b, type: 3}
+  - {fileID: 3132135183682885771, guid: 014f3d4a86f724060ba69b16780d0a12, type: 3}
+  - {fileID: 3132135183682885771, guid: 3d4b66845cc424dc680bba01668397fc, type: 3}
+  - {fileID: 3132135183682885771, guid: eabc4e105946c4519b0579e7fecd9611, type: 3}
+  - {fileID: 3132135183682885771, guid: 8348a4002ec574638b1a5d518b0eb96b, type: 3}
+  - {fileID: 3132135183682885771, guid: 8348a4002ec574638b1a5d518b0eb96b, type: 3}
+  playerFollowObject: {fileID: 4784188875439309345, guid: cb4e597690c834739aa37e3fc0079f47,
+    type: 3}
+  isCurvedWorld: 1
+  horizontalSize: -0.2
+  horizontalOffset: 0
+  verticalSize: -0.2
+  verticalOffset: 0
+  ordererData: {fileID: 11400000, guid: 105fbd61aa16b49a58593bdab5f1b3ed, type: 2}
+  orderFoodDataList: []
+  difficulty: 1
+  isBonusStage: 0

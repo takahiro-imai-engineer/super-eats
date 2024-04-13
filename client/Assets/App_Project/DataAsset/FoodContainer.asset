@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8de2b9126a7456b88f2f1c84b6126a, type: 3}
+  m_Name: FoodContainer
+  m_EditorClassIdentifier: 
+  InfoList:
+  - Data: {fileID: 11400000, guid: c3a3dd9ee4098492dab4a9f6ee6352ba, type: 2}
+    Prefab: {fileID: 3585764330273769470, guid: df8316de057a8460c9dc12a69dbf68f7,
+      type: 3}
+  - Data: {fileID: 11400000, guid: affb6847dd3684fa18256ece46843f9d, type: 2}
+    Prefab: {fileID: 5778467830770595066, guid: e131e0a0649054e6f8e9fa2bc8415205,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 981e1c6d19e08436c86d266366307676, type: 2}
+    Prefab: {fileID: -4836702865786380622, guid: 1cceb8655b61e4d0187d769c3be1db0b,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 3991630e2555a4d748e75e9ebddb3904, type: 2}
+    Prefab: {fileID: -4836702865786380622, guid: 30282a279d3a84dc69c915e83b924654,
+      type: 3}
+  - Data: {fileID: 11400000, guid: bad18503ff47647dcacdcefb39b9b135, type: 2}
+    Prefab: {fileID: -4836702865786380622, guid: aecf11ba26c004ac09ad9b1783cbfcd0,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 9ff019062925241a7893a0ce0d11948f, type: 2}
+    Prefab: {fileID: -4836702865786380622, guid: abd29e1e04b8a46a7bba780838f0c83f,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 6917f4240d9a049ea99390f9112e8223, type: 2}
+    Prefab: {fileID: -4836702865786380622, guid: 3cb0083d159944bc69a2731ca0335290,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 8025e780ed0d4456f9e8b6e42af0c6f0, type: 2}
+    Prefab: {fileID: -4836702865786380622, guid: df91f56db53964190ac14e8147369fa8,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 6a9ccd601d70546278b3c16527012f3d, type: 2}
+    Prefab: {fileID: -7192908094437246296, guid: ab2f35fc37f794457817fa68ff80080b,
+      type: 3}
+  - Data: {fileID: 11400000, guid: 208bbea41da75470cb882a4ebdf0e3d4, type: 2}
+    Prefab: {fileID: 3794315835542342309, guid: 48cedd9498a3f47da9e4890d2738846f,
+      type: 3}

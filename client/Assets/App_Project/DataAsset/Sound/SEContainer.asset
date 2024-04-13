@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c93529dcc0d96d42a20ef02bc5618bc, type: 3}
+  m_Name: SEContainer
+  m_EditorClassIdentifier: 
+  ContainerName: SEContainer
+  MaxChannelCount: 10
+  Resources:
+  - Name: SE_GET_COIN
+    IsLoop: 0
+  - Name: SE_GET_DIAMOND
+    IsLoop: 0
+  - Name: SE_GET_FOOD
+    IsLoop: 0
+  - Name: SE_PUNCH
+    IsLoop: 0
+  - Name: SE_HEAVY
+    IsLoop: 0
+  - Name: SE_JUMP
+    IsLoop: 0
+  - Name: SE_DASH
+    IsLoop: 0
+  - Name: SE_GOAL
+    IsLoop: 0
+  - Name: SE_STAGE_CLEAR
+    IsLoop: 0
+  - Name: SE_WIND
+    IsLoop: 0
+  - Name: SE_SMALL_CLASH
+    IsLoop: 0
+  - Name: SE_CLASH
+    IsLoop: 0
+  - Name: SE_CAR_HORN
+    IsLoop: 0
+  - Name: SE_SIREN
+    IsLoop: 0
+  - Name: SE_POLICE_CAR
+    IsLoop: 0
+  - Name: SE_TRAFFIC_JAM
+    IsLoop: 0
+  - Name: SE_CONCRETE_FALL
+    IsLoop: 0
+  - Name: SE_CAR_COMING
+    IsLoop: 0
+  - Name: SE_BOX_FALL
+    IsLoop: 0
+  - Name: SE_RIVAL_IN
+    IsLoop: 0
+  - Name: SE_ORDER
+    IsLoop: 0
+  - Name: SE_TAP_BUTTON
+    IsLoop: 0
+  - Name: SE_MONEY_RESULT
+    IsLoop: 0
+  - Name: SE_CONTAINER_MOVE
+    IsLoop: 0
+  - Name: SE_CONTAINER_FALL
+    IsLoop: 0
+  - Name: SE_TRUCK_MOVE
+    IsLoop: 0
+  - Name: SE_TRUCK_HORN
+    IsLoop: 0
+  - Name: SE_PROGRESS_GAUGE
+    IsLoop: 1
+  - Name: SE_MAX_GAUGE
+    IsLoop: 0
+  - Name: SE_PURCHASE_ITEM
+    IsLoop: 0
+  - Name: SE_HOVER_CAR_FALL
+    IsLoop: 0
+  - Name: SE_ENEMY_DRONE
+    IsLoop: 0
+  - Name: SE_RIVAL_DRONE
+    IsLoop: 0
+  - Name: SE_BIG_SHIP_ALARM
+    IsLoop: 0
+  - Name: SE_BIG_SHIP_ENGINE
+    IsLoop: 0
+  - Name: SE_DOOR_CLOSE
+    IsLoop: 0
+  - Name: SE_CYBER_CAR_IN
+    IsLoop: 0
+  - Name: SE_CROSS_HOVER
+    IsLoop: 0
+  - Name: SE_HOVER_CAR_START
+    IsLoop: 0
+  - Name: SE_ROBOT
+    IsLoop: 0
+  - Name: SE_TIME_TO_WARP
+    IsLoop: 1
+  - Name: SE_GENERATE_COIN
+    IsLoop: 0

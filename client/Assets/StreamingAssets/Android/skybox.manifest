@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 637530899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1714daf6c69bebfd57d41f252b20b79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26f03943b78ec494916e87420a82367e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App_Project/Material/SkyBox/OriginalSkybox_Cyber_02_Cubemap 1.mat
+- Assets/App_Project/Material/SkyBox/OriginalSkybox_City_03_Cubemap.mat
+- Assets/App_Project/Material/SkyBox/OriginalSkybox_Apo_03_Cubemap 1.mat
+Dependencies: []

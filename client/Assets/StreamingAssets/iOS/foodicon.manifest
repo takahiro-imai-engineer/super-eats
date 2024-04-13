@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1630270466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5610d2be66ce95f5a957a4f241fae96f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App_Project/Image/Icon/Food/HotdogIcon.png
+- Assets/App_Project/Image/Icon/Food/Icon_Coke.png
+- Assets/App_Project/Image/Icon/Food/Icon_Ice.png
+- Assets/App_Project/Image/Icon/Food/ColaIcon.png
+- Assets/App_Project/Image/Icon/Food/Icon_Pizza.png
+- Assets/App_Project/Image/Icon/Food/Icon_Hotdog.png
+- Assets/App_Project/Image/Icon/Food/Icon_Burger.png
+- Assets/App_Project/Image/Icon/Food/Icon_Tacos.png
+- Assets/App_Project/Image/Icon/Food/Icon_Beer.png
+- Assets/App_Project/Image/Icon/Food/DonutIcon.png
+- Assets/App_Project/Image/Icon/Food/BottleIcon.png
+- Assets/App_Project/Image/Icon/Food/TacoIcon.png
+- Assets/App_Project/Image/Icon/Food/Icon_Donuts.png
+- Assets/App_Project/Image/Icon/Food/SampleFoodIcon.png
+- Assets/App_Project/Image/Icon/Food/IceCreamIcon.png
+- Assets/App_Project/Image/Icon/Food/PizzaIcon.png
+Dependencies: []

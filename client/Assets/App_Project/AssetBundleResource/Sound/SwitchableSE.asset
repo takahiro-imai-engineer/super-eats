@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c93529dcc0d96d42a20ef02bc5618bc, type: 3}
+  m_Name: SwitchableSE
+  m_EditorClassIdentifier: 
+  ContainerName: BundledSE
+  MaxChannelCount: 0
+  Resources:
+  - Name: SW_SE_001
+    Clip: {fileID: 8300000, guid: 594e9510ecf541845a0d7f15cd0980bf, type: 3}
+    IsLoop: 0
+  - Name: SW_SE_002
+    Clip: {fileID: 8300000, guid: c8373d90f75b98c419bf93b4da29afc2, type: 3}
+    IsLoop: 0

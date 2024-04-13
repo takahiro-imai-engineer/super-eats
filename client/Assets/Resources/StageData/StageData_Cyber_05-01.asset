@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_Cyber_05-01
+  m_EditorClassIdentifier: 
+  id: 2501
+  groupId: 2
+  stageName: StageData_Cyber_05-01
+  stageTipSize: 100
+  goalStage: {fileID: 5353429500364738544, guid: d08717666cc4d408e854be4bb4a27b4a,
+    type: 3}
+  stageList:
+  - {fileID: 663347461385343888, guid: 0ac461e1e20fa4d2aadeee4ae23cde6e, type: 3}
+  - {fileID: 663347461385343888, guid: df722ee07d2924303a31934b3bbc4867, type: 3}
+  - {fileID: 663347461385343888, guid: 8805cf95eba9d4999b527cc89a9abd44, type: 3}
+  - {fileID: 663347461385343888, guid: 896f424f28732419cadd5e51851e94d5, type: 3}
+  - {fileID: 663347461385343888, guid: 96b87bfeb8d3c4b18a295ecfea9249e6, type: 3}
+  - {fileID: 663347461385343888, guid: c85d590ff1a6746e09559c3f520ee935, type: 3}
+  - {fileID: 663347461385343888, guid: 17af0471b4eb04f58935714b18d54505, type: 3}
+  - {fileID: 663347461385343888, guid: c835ca00e2dd6408bbd026f446c77d3a, type: 3}
+  - {fileID: 663347461385343888, guid: 743877df6b2a84f6a80527a0c86da936, type: 3}
+  - {fileID: 663347461385343888, guid: 000fd1c941b8b4042adced407d36da87, type: 3}
+  - {fileID: 663347461385343888, guid: b12a13e25896841a68afe5edc9cf1135, type: 3}
+  - {fileID: 663347461385343888, guid: 6407a0f07709e411aad4db430be99337, type: 3}
+  - {fileID: 663347461385343888, guid: 1de79b6e71bc242318928ef833761043, type: 3}
+  - {fileID: 663347461385343888, guid: a727c47ac46a04b2589df35b26440521, type: 3}
+  - {fileID: 663347461385343888, guid: 299c43b6ae6764cbeb1ff287f86b3424, type: 3}
+  - {fileID: 663347461385343888, guid: f53ac9df392b749aa8246ea734a7ad92, type: 3}
+  - {fileID: 663347461385343888, guid: 914a5434a303a465080dd7d05e3b9b2e, type: 3}
+  - {fileID: 663347461385343888, guid: 1552b1ee5dc4c4b7bb32019f7a8631d8, type: 3}
+  - {fileID: 663347461385343888, guid: a13a9e9b2e7ef46969bdba450f225e52, type: 3}
+  - {fileID: 663347461385343888, guid: 461ed64e8d6bd4cd89a04dbad9fe1071, type: 3}
+  - {fileID: 663347461385343888, guid: b96bf41fdceea4fb28d495343416f9d7, type: 3}
+  - {fileID: 663347461385343888, guid: baf126bb3c5224d51806bf317dc018d9, type: 3}
+  - {fileID: 663347461385343888, guid: 513cbb22a799e48429878ef02207b844, type: 3}
+  - {fileID: 663347461385343888, guid: 896f424f28732419cadd5e51851e94d5, type: 3}
+  - {fileID: 663347461385343888, guid: 92a0c92d208a04492813f474b23c119f, type: 3}
+  - {fileID: 663347461385343888, guid: a9ab1c7ea7d774b8a8ce90193bb258b0, type: 3}
+  - {fileID: 663347461385343888, guid: 4e3998209a3eb46e39df1d809516ac7c, type: 3}
+  playerFollowObject: {fileID: 4784188875439309345, guid: cb4e597690c834739aa37e3fc0079f47,
+    type: 3}
+  isCurvedWorld: 1
+  horizontalSize: -0.3
+  horizontalOffset: 0
+  verticalSize: -0.3
+  verticalOffset: 0
+  normalCoinPrice: 2
+  bonusCoinPrice: 10
+  ordererData: {fileID: 11400000, guid: c7b7e136a268f4de2b3bf91a6afb5478, type: 2}
+  orderFoodDataList:
+  - FoodData: {fileID: 11400000, guid: c3a3dd9ee4098492dab4a9f6ee6352ba, type: 2}
+    Num: 2
+    Price: 500
+  - FoodData: {fileID: 11400000, guid: 981e1c6d19e08436c86d266366307676, type: 2}
+    Num: 2
+    Price: 490
+  - FoodData: {fileID: 11400000, guid: affb6847dd3684fa18256ece46843f9d, type: 2}
+    Num: 1
+    Price: 480
+  - FoodData: {fileID: 11400000, guid: 3991630e2555a4d748e75e9ebddb3904, type: 2}
+    Num: 1
+    Price: 460
+  - FoodData: {fileID: 11400000, guid: 6917f4240d9a049ea99390f9112e8223, type: 2}
+    Num: 1
+    Price: 460
+  difficulty: 4
+  isBonusStage: 0

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HomeUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 749685b286f2d4125ad36b7c5bb925ad, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 91b4dd31504554b348dde5db53efec0a, type: 3}
+  - {fileID: 21300000, guid: 73c74a41b84fc478894d671b4e0ccd56, type: 3}
+  - {fileID: 21300000, guid: 5b3afdb1a8c094784bbbeabe9ecb716c, type: 3}
+  - {fileID: 21300000, guid: 113162c1d82c143e684b7ef9ff46fdc8, type: 3}
+  - {fileID: 21300000, guid: 273af002494e847b7a19ac620241ad98, type: 3}
+  - {fileID: 21300000, guid: 9472221372d2340f38a63db7c2579749, type: 3}
+  - {fileID: 21300000, guid: 3684be73a71884e63b9967f93c137926, type: 3}
+  - {fileID: 21300000, guid: 7f9accb4bfb0649b78b9a710178808c2, type: 3}
+  - {fileID: 21300000, guid: 68a61405224404c7aa9f5a1b71157801, type: 3}
+  - {fileID: 21300000, guid: d3d9d775ce93c490a88c31aa071f2961, type: 3}
+  - {fileID: 21300000, guid: effe06a58ab5d4d35b01f3f45cb9cde3, type: 3}
+  - {fileID: 21300000, guid: e096b336d0ba84e66b840883a9faeebf, type: 3}
+  - {fileID: 21300000, guid: 0c8bec96f9c7840c9a5128bdfd763423, type: 3}
+  - {fileID: 21300000, guid: 40b915a7191014303966240e1c6e3afe, type: 3}
+  - {fileID: 21300000, guid: 746f6f78ac5994403a90f8848a1d59dd, type: 3}
+  - {fileID: 21300000, guid: 1568a9c8655c94b7f9a30bebd74f21e7, type: 3}
+  - {fileID: 21300000, guid: aefb1989ced924e74aacda2d417956ec, type: 3}
+  - {fileID: 21300000, guid: 086946a97b60c4881bced72517f82897, type: 3}
+  - {fileID: 21300000, guid: 5a9c281a0dd7640aa90eca31f4009000, type: 3}
+  - {fileID: 21300000, guid: 932cc81a505f2423cb66881814544825, type: 3}
+  - {fileID: 21300000, guid: c76a96fa45a3e4adc868ebfd1a4b4081, type: 3}
+  - {fileID: 21300000, guid: 0eba31fb512ed412482e565f1454123c, type: 3}
+  - {fileID: 21300000, guid: b7efe92c1bd364813a7f119b09dd9c26, type: 3}
+  - {fileID: 21300000, guid: 065f273cacba94bdab0fa6dfe5d4431a, type: 3}
+  - {fileID: 21300000, guid: 9d9ac17d8dbd34d72ad4ea4d714444e1, type: 3}
+  - {fileID: 21300000, guid: dbde629d5182f41a19ff51d226d9e9c6, type: 3}
+  - {fileID: 21300000, guid: a0a31c9df83804596b134a641e74ad39, type: 3}
+  - {fileID: 21300000, guid: 3a59954f5486340f6b7403da03facb56, type: 3}
+  - {fileID: 21300000, guid: b4ecf35fea4854e70b2bf647c10675f4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_magnet01
+  - got_furniture
+  - icon_hart01
+  - bar_base02
+  - icon_presentbox01
+  - home_flame_normal01
+  - shop_flame_gray01
+  - shop_flame_blue01
+  - button_warp01
+  - button_gray02
+  - bar04
+  - got_home
+  - icon_shop01
+  - icon_grage01
+  - icon_setting01
+  - home_flame_gold01
+  - icon_coin01
+  - bar_base04
+  - bar_white01
+  - bar03_1
+  - bar_base03
+  - bar_white_grd01
+  - button_blue02
+  - icon_home01
+  - bar_white02
+  - button_gray01
+  - attention
+  - bar_white_grd02
+  - bar03
+  m_RenderDataMap: {}
+  m_Tag: HomeUIAtlas
+  m_IsVariant: 0

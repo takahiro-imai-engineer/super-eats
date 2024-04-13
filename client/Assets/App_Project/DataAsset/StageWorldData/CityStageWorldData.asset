@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 445f5f1925d164943aee7b8cdc7293a2, type: 3}
+  m_Name: CityStageWorldData
+  m_EditorClassIdentifier: 
+  worldId: 1
+  nextWorldNecessaryTotalMoneyNum: 5000
+  reapeatStageProgressDegrees: 3
+  stageDrawingDataList:
+  - ProgressDegrees: 0
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City00_Tutorial
+    IsTutorialStage: 1
+  - ProgressDegrees: 1
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City01-01
+    - StageDataList:
+      - StageData_City01-02
+    IsTutorialStage: 1
+  - ProgressDegrees: 2
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City01-01
+      - StageData_City01-02
+    - StageDataList:
+      - StageData_City02-01
+    - StageDataList:
+      - StageData_City02-02
+    IsTutorialStage: 1
+  - ProgressDegrees: 3
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City01-01
+      - StageData_City01-02
+      - StageData_City01-03
+    - StageDataList:
+      - StageData_City02-01
+      - StageData_City02-02
+      - StageData_City02-03
+    - StageDataList:
+      - StageData_City03-01
+      - StageData_City03-02
+      - StageData_City03-03
+    IsTutorialStage: 0
+  - ProgressDegrees: 4
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City09-01
+    - StageDataList:
+      - StageData_City02-01
+      - StageData_City02-02
+      - StageData_City02-03
+    - StageDataList:
+      - StageData_City03-01
+      - StageData_City03-02
+      - StageData_City03-03
+    IsTutorialStage: 0
+  - ProgressDegrees: 5
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City01-01
+      - StageData_City01-02
+      - StageData_City01-03
+    - StageDataList:
+      - StageData_City02-03
+      - StageData_City02-04
+      - StageData_City02-05
+    - StageDataList:
+      - StageData_City03-01
+      - StageData_City03-02
+      - StageData_City03-03
+    IsTutorialStage: 0
+  - ProgressDegrees: 6
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City02-01
+      - StageData_City02-02
+      - StageData_City02-03
+    - StageDataList:
+      - StageData_City03-01
+      - StageData_City03-02
+      - StageData_City03-03
+    - StageDataList:
+      - StageData_City04-01
+      - StageData_City04-02
+    IsTutorialStage: 0
+  - ProgressDegrees: 7
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City09-02
+    - StageDataList:
+      - StageData_City02-01
+      - StageData_City02-02
+      - StageData_City02-03
+    - StageDataList:
+      - StageData_City03-01
+      - StageData_City03-02
+      - StageData_City03-03
+    IsTutorialStage: 0
+  - ProgressDegrees: 8
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City01-01
+      - StageData_City01-02
+      - StageData_City01-03
+    - StageDataList:
+      - StageData_City02-01
+      - StageData_City02-02
+      - StageData_City02-03
+    - StageDataList:
+      - StageData_City03-03
+      - StageData_City03-04
+      - StageData_City03-05
+    IsTutorialStage: 0
+  - ProgressDegrees: 9
+    StageSlotDataList:
+    - StageDataList:
+      - StageData_City03-01
+      - StageData_City03-02
+      - StageData_City03-03
+    - StageDataList:
+      - StageData_City04-01
+      - StageData_City04-02
+    - StageDataList:
+      - StageData_City05-01
+    IsTutorialStage: 0
+  graphicData: {fileID: 11400000, guid: 21b951eedcdc846ceaa8ab94f787f1ed, type: 2}
+  stageGroupName: 2022
+  stageIcon: {fileID: 21300000, guid: 440710959cc064a898ac8109e1d944f4, type: 3}

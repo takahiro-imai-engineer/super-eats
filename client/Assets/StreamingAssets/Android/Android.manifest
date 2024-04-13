@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3989585364
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: title_base
+      Dependencies: {}
+    Info_1:
+      Name: shopicon
+      Dependencies: {}
+    Info_2:
+      Name: sound
+      Dependencies: {}
+    Info_3:
+      Name: charactericon
+      Dependencies: {}
+    Info_4:
+      Name: tips
+      Dependencies: {}
+    Info_5:
+      Name: tutorial_image
+      Dependencies: {}
+    Info_6:
+      Name: foodicon
+      Dependencies: {}
+    Info_7:
+      Name: skybox
+      Dependencies: {}

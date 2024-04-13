@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddb81883ef3184877b30b9dad21026d1, type: 3}
+  m_Name: StageData_City02-02
+  m_EditorClassIdentifier: 
+  id: 1202
+  stageName: City02-02
+  stageTipSize: 100
+  goalStage: {fileID: 5353429500364738544, guid: 982dce91376254957b1d8818a30facee,
+    type: 3}
+  stageList:
+  - {fileID: 663347461385343888, guid: 927ff9f94462b4a148a6740017f060e1, type: 3}
+  - {fileID: 663347461385343888, guid: 8457a907e6ca3410cbd5cac16cee45bc, type: 3}
+  - {fileID: 663347461385343888, guid: 98a343ea0c8ab44e593e67692e01365b, type: 3}
+  - {fileID: 663347461385343888, guid: 0730c0efd5d61403da8b5b2e112007e9, type: 3}
+  - {fileID: 5284785547419777130, guid: 7f26740c39b4a47d7a6fcb366f8f8d88, type: 3}
+  - {fileID: 5353429500364738544, guid: 970b90ee831b5495f84a5ec83d12e9b3, type: 3}
+  - {fileID: 663347461385343888, guid: 38d8a9114ec56406983ec990ce56925d, type: 3}
+  - {fileID: 663347461385343888, guid: 445a74dfeffb74aa495a452093118b45, type: 3}
+  - {fileID: 663347461385343888, guid: 0730c0efd5d61403da8b5b2e112007e9, type: 3}
+  - {fileID: 663347461385343888, guid: 232e4f1567a134c73b2536ff8b4a984c, type: 3}
+  playerFollowObject: {fileID: 0}
+  isCurvedWorld: 1
+  horizontalSize: -0.3
+  horizontalOffset: 0
+  verticalSize: -0.3
+  verticalOffset: 0
+  ordererData: {fileID: 11400000, guid: 3afd6ce46207c4c179dd8b37b9d29f47, type: 2}
+  orderFoodDataList:
+  - FoodData: {fileID: 11400000, guid: 981e1c6d19e08436c86d266366307676, type: 2}
+    Num: 1
+  - FoodData: {fileID: 11400000, guid: 9ff019062925241a7893a0ce0d11948f, type: 2}
+    Num: 1
+  - FoodData: {fileID: 11400000, guid: 3991630e2555a4d748e75e9ebddb3904, type: 2}
+    Num: 1
+  - FoodData: {fileID: 11400000, guid: 8025e780ed0d4456f9e8b6e42af0c6f0, type: 2}
+    Num: 1
+  difficulty: 2
+  isBonusStage: 0

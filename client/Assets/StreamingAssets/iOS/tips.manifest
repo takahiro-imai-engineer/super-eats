@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3211502194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caf5bf6c33f63b1916e811773e54c580
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App_Project/Image/TIPS/TIPS_17B.png
+- Assets/App_Project/Image/TIPS/TIPS_07B.png
+- Assets/App_Project/Image/TIPS/TIPS_26B.png
+- Assets/App_Project/Image/TIPS/TIPS_28B.png
+- Assets/App_Project/Image/TIPS/TIPS_09B.png
+- Assets/App_Project/Image/TIPS/TIPS_29B.png
+- Assets/App_Project/Image/TIPS/TIPS_19B.png
+- Assets/App_Project/Image/TIPS/TIPS_16B.png
+- Assets/App_Project/Image/TIPS/TIPS_11B.png
+- Assets/App_Project/Image/TIPS/TIPS_03B.png
+- Assets/App_Project/Image/TIPS/TIPS_20B.png
+- Assets/App_Project/Image/TIPS/TIPS_25B.png
+- Assets/App_Project/Image/TIPS/TIPS_06B.png
+- Assets/App_Project/Image/TIPS/TIPS_10B.png
+- Assets/App_Project/Image/TIPS/TIPS_02B.png
+- Assets/App_Project/Image/TIPS/TIPS_04B.png
+- Assets/App_Project/Image/TIPS/TIPS_13B.png
+- Assets/App_Project/Image/TIPS/TIPS_27B.png
+- Assets/App_Project/Image/TIPS/TIPS_30B.png
+- Assets/App_Project/Image/TIPS/TIPS_21B.png
+- Assets/App_Project/Image/TIPS/TIPS_15B.png
+- Assets/App_Project/Image/TIPS/TIPS_23B.png
+- Assets/App_Project/Image/TIPS/TIPS_24B.png
+- Assets/App_Project/Image/TIPS/TIPS_08B.png
+- Assets/App_Project/Image/TIPS/TIPS_12B.png
+- Assets/App_Project/Image/TIPS/TIPS_18B.png
+- Assets/App_Project/Image/TIPS/TIPS_22B.png
+- Assets/App_Project/Image/TIPS/TIPS_14B.png
+- Assets/App_Project/Image/TIPS/TIPS_05B.png
+Dependencies: []

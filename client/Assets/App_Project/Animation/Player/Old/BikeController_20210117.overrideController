@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BikeController_20210117
+  m_Controller: {fileID: 9100000, guid: 6650569744e31406a8a07d676809cf80, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 939b4e0ea9e25423293fab56ff81299a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a8fe969893ee5804da222fa4d7715079, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1a422d45931034f3d8cd0940f297c6a3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a8e89f0894b4ae4dbfe2e850d011321, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7c672312f9e3a4eed8ca301e1be90428, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bce0c5dd57b5857428db8fff3fed7c91, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 31aa0938e8a3042089ea6f11c8fe2530, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9c5c357f771a440fd9363a63ed300f1f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d0568504b9a014a75b53b27275a02eca, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b78437e2adbd82d469b0cffa58898cdf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c1b1f31837ef64319a273c663a9e117d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a8fe969893ee5804da222fa4d7715079, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cfa835ec428fbc04487000a50aa4cf1b, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e9adc1fbd9b729041992052f0cb427e4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b65f7f8ca633642949dcfda18e1f0204, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a8e89f0894b4ae4dbfe2e850d011321, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e95e03ec6eacb4014acfa02a77dd2f14, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a8e89f0894b4ae4dbfe2e850d011321, type: 2}

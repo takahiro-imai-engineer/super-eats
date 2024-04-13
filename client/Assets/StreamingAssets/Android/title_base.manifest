@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 4091501470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 576203dc80097b2ad5b844295ace456a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36d3f0b20187dda2c35614d95614ee03
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f2d15317c1d64793b40071f62e16129, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96f3245fe44bf4df8814a8b8dbb483cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba448e5399afa4bbf97345c5546a93c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15a3b022fa3194c86b893cfd03bfe5dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 246455474a0d74a4291b3cedc896ebdf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/App_Project/Prefab/Scene/Base/Base01.prefab
+- Assets/App_Project/Prefab/Scene/Base/Base04.prefab
+- Assets/App_Project/Prefab/Scene/Base/Base03.prefab
+- Assets/App_Project/Prefab/Scene/Base/Base02.prefab
+Dependencies: []

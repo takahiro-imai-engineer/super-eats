@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0041019d0284208aa506190095e11b, type: 3}
+  m_Name: ShopContainer
+  m_EditorClassIdentifier: 
+  BagDataList:
+  - {fileID: 11400000, guid: 8a53851a6e2424f0f826d274166db4cf, type: 2}
+  - {fileID: 11400000, guid: 876bab1a0d06c428b964c816587dc054, type: 2}
+  - {fileID: 11400000, guid: d17ac1c266869437c949a6ccb24f52ad, type: 2}
+  - {fileID: 11400000, guid: d7c1fafba6250496d8123dc01c832cb1, type: 2}
+  - {fileID: 11400000, guid: 4dd6d031fb10b4c048b67e4c2e268337, type: 2}
+  - {fileID: 11400000, guid: b6d871300829b4f38ba43cd659d2d8f4, type: 2}
+  AvatarDataList:
+  - {fileID: 11400000, guid: 2e3861be7ef754b8db4dc67453305681, type: 2}
+  - {fileID: 11400000, guid: bb5bbd3df6c554185970754fa9625d04, type: 2}
+  - {fileID: 11400000, guid: 32441da26d56a4f11a68e1d7b4ad4bfc, type: 2}
+  - {fileID: 11400000, guid: a0ba7034f116d484bba28ef25f2aaa03, type: 2}
+  - {fileID: 11400000, guid: 86cfb764af50e4d6b91460554d206137, type: 2}
+  - {fileID: 11400000, guid: c4d981900963340e0b2287bca773436e, type: 2}
+  BicycleDataList:
+  - {fileID: 11400000, guid: 54ed23c9cd71e4110a67819eb67ab87d, type: 2}
+  - {fileID: 11400000, guid: 4d5b1d60b3d884e6c9ec09110e8ffa36, type: 2}
+  - {fileID: 11400000, guid: c50af411ceaf84c019b064686c3be49b, type: 2}
+  - {fileID: 11400000, guid: 811060d6b75174b8f804f5b029cbab64, type: 2}
+  - {fileID: 11400000, guid: ece78365135a94bcabf7c0785f10ca23, type: 2}
+  - {fileID: 11400000, guid: 67218219b909a46a6a8e458ed6361ad7, type: 2}
