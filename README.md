@@ -2,15 +2,14 @@ SuperEatsのポートフォリオ用リポジトリ
 
 # 前提
 
-- SuperEatsは、下記でからダウンロードすることが可能です。
+- SuperEatsは、モバイル向けのランゲームです。
+- アプリは、下記からダウンロードすることが可能です。
   - [GooglePlay](https://play.google.com/store/apps/details?id=com.newgameplus.supereats)
   - [AppStore](https://apps.apple.com/jp/app/super-eats-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E9%85%8D%E9%81%94%E5%93%A1/id6475675058)
 
 |街ステージ|未来ステージ|世紀末ステージ|
 |---|---|---|
 | <img width="1400" src="https://github.com/takahiro-imai-engineer/newgameplus-1/assets/69511542/e2ace094-6003-4dc4-8866-14942af724bc"> | <img width="1400" src="https://github.com/takahiro-imai-engineer/newgameplus-1/assets/69511542/af4ec335-2967-4b21-b6a4-12ed9c540c89"> | <img width="1400" src="https://github.com/takahiro-imai-engineer/newgameplus-1/assets/69511542/3591133c-1f75-459c-a1f2-67e8f236184b"> |
-
-- ゲームのジャンルは、ランゲーム。
 
 > [!WARNING]
 > - 有料アセットは、パブリックリポジトリにするにあたって、  
@@ -91,8 +90,8 @@ SuperEatsのポートフォリオ用リポジトリ
 - Tenjin
   - 計測用
 - IronSource
- - 広告再生
- - UnityAds/AdMobを導入済み
+  - 広告再生
+  - UnityAds/AdMobを導入済み
 - GooglePlay
   - AppBundle
   - AssetDelively
