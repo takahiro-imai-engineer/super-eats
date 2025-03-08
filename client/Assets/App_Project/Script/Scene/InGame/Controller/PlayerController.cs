@@ -870,4 +870,8 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    public void ReviewTest()
+    {
+        Debug.Log("ReviewTest");
+    }
 }
